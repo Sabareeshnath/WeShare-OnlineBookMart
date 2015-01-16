@@ -1,0 +1,82 @@
+/* 
+    Document   : interlog
+    Created on : Jan 18, 2014, 8:09:41 PM
+    Author     : $abzz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#login-box {
+	width:333px;
+	height:280px;
+	padding: 40px 26px 0 25px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(images/login-box-background1.jpg) no-repeat left top;
+}
+
+#login-box img {
+	border:none;
+}
+
+#login-box h2 {
+	padding:0px 3px;
+	margin:3px 0px 0px 0px;
+	color: #ebebeb;
+	font: bold 20px "Calibri", Arial;
+}
+
+
+#login-box-name {
+	float: left;
+	display:inline;
+	width:60px;
+	text-align: left;
+	padding: 3px 5px 0 0px;
+	margin:10px 0 7px 0;
+}
+
+#login-box-field {
+	float: left;
+	display:inline;
+	width:90px;
+        height:20px;
+        margin:10px 20px 3px 0px;
+}
+
+
+.form-login  {
+	width: 200px;
+        
+	padding: 2px 2px 6px 3px;
+	border: 1px solid #0d2c52;
+	background-color:#1e4f8a;
+	font-size: 10px;
+	color: #ebebeb;
+}
+
+
+.login-box-options  {
+	clear:both;
+	padding-left:87px;
+	font-size: 11px;
+}
+
+.login-box-options a {
+	color: #ebebeb;
+	font-size: 12px;
+}
+
+#register-box {
+	width:933px;
+	height: 600px;
+	padding: 0px 76px 20px 0px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(images/register-box-backg1.jpg) no-repeat left top;
+}
